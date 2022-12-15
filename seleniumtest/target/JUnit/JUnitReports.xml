@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="16.697">
+    <testcase classname="Ibridge360 Login Page functionality" name="Check Login is successful with valid credentials." time="16.215">
+        <system-out><![CDATA[Given Launch the browser....................................................passed
+And user is on login page...................................................passed
+When user enters mobile or gmail............................................passed
+And clicks on login button..................................................passed
+Then user is navigated to the home page.....................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
